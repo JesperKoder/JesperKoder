@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hei! 👋 Jeg heter Jesper og er frontend utvikler.
 
+Jeg går for tiden på kurs hos Kodehode.
+Her har vi lært frontend utviklikng og backend siste ukene.
 <!--
 **JesperKoder/JesperKoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
