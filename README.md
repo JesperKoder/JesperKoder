@@ -1,7 +1,8 @@
 ### Hei! 👋 Jeg heter Jesper og er frontend utvikler.
 
-Jeg går for tiden på kurs hos Kodehode.
-Her har vi lært frontend utvikling og backend siste ukene.
+Jeg går på kurs hos Kodehode.
+Her har jeg lært html, css, JS, figma, sql og react.
+
 
 🌱 Jeg lærer for tiden PHP og laravel.
 <!--
