@@ -1,8 +1,10 @@
 ### Hei! 👋
 
 Mitt navn er Jesper, og for tiden studerer jeg frontend-utvikling på Kodehode.
-Her har jeg gått den vanlige veien fra HTML via CSS og fordypning i JavaScript.
-Jeg har også jobbet med Node.JS og React. Nå for tiden fordyper jeg meg i PHP og Laravel, og trives veldig godt med det. 
+
+Her har jeg gått den vanlige veien fra HTML, CSS og fordypning i JavaScript. Jeg har også jobbet med Node.JS og React.
+
+Nå for tiden fordyper jeg meg i PHP og Laravel, og trives veldig godt med det.
 
 <!--
 **JesperKoder/JesperKoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
