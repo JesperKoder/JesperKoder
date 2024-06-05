@@ -1,11 +1,12 @@
 ### Hei! 👋
 
-Jeg heter Jesper og er lidenskapelig opptatt av frontend-utvikling.
-For øyeblikket er jeg engasjert i studier innen frontend-utvikling ved Kodehode.
+Jeg heter Jesper og er lidenskapelig opptatt av frontend-utvikling. For øyeblikket er jeg engasjert i studier innen frontend-utvikling ved Kodehode.
 
-Her har jeg gått den vanlige veien fra HTML, CSS og fordypning i JavaScript.
+Her har jeg gått den vanlige veien fra HTML, CSS og fordypning i JavaScript. Etter det har jeg jobbet i React og Next.js, noe jeg har trivdes veldig godt med.
 
-For tiden fokuserer jeg på React med Next.js, hvor jeg eksperimenterer og bygger spennende prosjekter. Jeg er alltid åpen for nye muligheter og læringsmuligheter, så ikke nøl med å ta kontakt!
+I det siste har jeg jobbet med Azure, C# og .NET, og fordyper meg for tiden i Blazor. 
+
+Jeg er lærevillig og trives godt med å fordype meg i nye teknologier og kodespråk. Jeg er alltid åpen for nye muligheter og læringsmuligheter, så ikke nøl med å ta kontakt! 
 
 <!--
 **JesperKoder/JesperKoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
